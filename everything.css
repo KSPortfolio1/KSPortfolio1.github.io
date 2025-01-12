@@ -494,21 +494,6 @@ background-color: #aebea1;
 
 /*this is the styling for my pdf buttons on portfolio page*/
 
-a href.button:link {   
-color:#2e664b;
-border:1px solid #2e664b;
-background-color: #f0a4bd;
-padding-top: 7px;
-padding-left: 7px;
-padding-right:7px;
-position: relative;
-padding-bottom: 5px;
-border-radius: 10px 10px;
-text-decoration: none;
-}
-
-
-/*
 a.button:link {   
 color:#2e664b;
 border:1px solid #2e664b;
@@ -520,7 +505,7 @@ position: relative;
 padding-bottom: 5px;
 border-radius: 10px 10px;
 text-decoration: none;
-}*/
+
 
 a.button:visited {color:#3c2a4a;}         /*the css here controls the appearance of all my links*/
 a.button:active {color: #000099;}
