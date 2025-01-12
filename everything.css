@@ -493,8 +493,8 @@ background-color: #aebea1;
 }
 
 /*this is the styling for my pdf buttons on portfolio page*/
-/*  i added an href in front of the a to test something             */
-a href.button:link {   
+
+a.button:link {   
 color:#2e664b;
 border:1px solid #2e664b;
 background-color: #f0a4bd;
